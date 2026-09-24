@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NOVO TIME - Premium Watch</title>
+<style>
+body{margin:0;background:#0a0a0a;color:#fff;font-family:sans-serif;text-align:center}
+.header{padding:15px;background:#111;border-bottom:1px solid #c9a84c44}
+.logo{color:#e8c86a;font-size:28px;letter-spacing:4px;font-weight:bold}
+.hero{padding:60px 20px}
+.hero h1{color:#f1d37a;font-size:38px}
+.btn{background:linear-gradient(90deg,#c9a84c,#f6e6a8);color:#000;padding:14px 30px;border:none;font-weight:bold;font-size:16px;border-radius:4px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:20px}
+@media(min-width:700px){.grid{grid-template-columns:1fr 1fr 1fr 1fr}}
+.card{background:#151515;border:1px solid #222;padding:10px;border-radius:12px}
+.card video,.card img{width:100%;height:220px;object-fit:cover;border-radius:8px}
+.whats{background:#25D366;color:#fff;padding:10px;width:100%;border:none;border-radius:6px;margin-top:8px;font-weight:bold}
+</style>
+</head>
+<body>
+<div class="header"><div class="logo">NOVO TIME<br><small style="font-size:10px;letter-spacing:5px;color:#fff">PREMIUM WATCH</small></div></div>
+
+<div class="hero">
+<h1>Timeless Precision.<br>Crafted in Gold.</h1>
+<p style="color:#aaa">Novo Time - Time That Defines You</p>
+<a href="https://wa.me/8801607511130"><button class="btn">Order on WhatsApp - 01607-511130</button></a>
+</div>
+
+<div class="grid">
+<div class="card">
+<video src="InShot_20260910_153422229.mp4" autoplay muted loop playsinline></video>
+<h3>Titan Gold</h3>
+<a href="https://wa.me/8801607511130?text=Titan Gold lagbe"><button class="whats">Order on WhatsApp</button></a>
+</div>
+<div class="card">
+<video src="InShot_20260910_153520633.mp4" autoplay muted loop playsinline></video>
+<h3>Curren Red</h3>
+<a href="https://wa.me/8801607511130?text=Curren Red lagbe"><button class="whats">Order on WhatsApp</button></a>
+</div>
+<div class="card">
+<video src="InShot_20260910_153600515.mp4" autoplay muted loop playsinline></video>
+<h3>Titan Black Yellow</h3>
+<a href="https://wa.me/8801607511130?text=Titan Black Yellow lagbe"><button class="whats">Order on WhatsApp</button></a>
+</div>
+<div class="card">
+<video src="InShot_20260910_153638373.mp4" autoplay muted loop playsinline></video>
+<h3>Tubular Skeleton</h3>
+<a href="https://wa.me/8801607511130?text=Tubular Skeleton lagbe"><button class="whats">Order on WhatsApp</button></a>
+</div>
+</div>
+
+<p style="color:#555;padding:20px">© 2026 NOVO TIME | 01607-511130</p>
+</body>
+  </html>
